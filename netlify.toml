@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://gy-dengju.com/*"
+  to = "https://sqsm.com.cn/:splat"
+  status = 301
+  force = true
